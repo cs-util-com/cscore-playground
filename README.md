@@ -10,6 +10,7 @@ The idea of this repository here is to allow you to run the [cscore library](htt
 4. After the playground has fully loaded, go to the Program.cs class
 5. Edit the string in the `Log.d(..)` line to something else
 6. Press F5 to run the code
+7. Now you can try out any of the code snippets from https://github.com/cs-util-com/cscore#-usage--examples in your browser 🎉
 
 ![Where to find the 'Open in a codespace' button](https://raw.githubusercontent.com/cs-util-com/cscore-playground/main/Other%20files/How-to-open-GitHub-codespace.png)
 
