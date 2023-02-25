@@ -11,7 +11,7 @@ The idea of this repository here is to allow you to run the https://github.com/c
 5. Edit the string in the `Log.d(..)` line to something else
 6. Press F5 to run the code
 
-
+![Where to find the 'Open in a codespace' button](https://raw.githubusercontent.com/cs-util-com/cscore-playground/main/Other%20files/How-to-open-GitHub-codespace.png)
 
 
 
