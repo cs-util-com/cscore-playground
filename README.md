@@ -1,6 +1,6 @@
-# Trying out https://github.com/cs-util-com/cscore in your browser
+# How to try out [cscore](https://github.com/cs-util-com/cscore) in your browser:
 
-The idea of this repository here is to allow you to run the https://github.com/cs-util-com/cscore library and experiment with the different features. 
+The idea of this repository here is to allow you to run the [cscore library](https://github.com/cs-util-com/cscore) and experiment with the different features. 
 
 ## How to get started:
 
